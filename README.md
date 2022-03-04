@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KopanoTsaro
+- 👋 Hi, I’m KopanoTsaro
 - 👀 I’m interested in Web Development, Programming and Coding
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web Development, coding projects etc
 - 📫 How to reach me ... Well contact me via my mail: kopanotsaro@gmail.com, twitter: @k_tsaro
 
 <!---
