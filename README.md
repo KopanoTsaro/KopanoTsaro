@@ -1,6 +1,6 @@
-- 👋 Hi, I’m KopanoTsaro
-- 👀 I’m interested in Web Development, Programming and Coding
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👋 Hi, I’m Kopano Tsaro
+- 👀 I’m interested in Web Development, and many other developer related roles
+- 🌱 I’m always learning - being a Full Stack Developer is my ultimate goal everyday!
 - 💞️ I’m looking to collaborate on Web Development, coding projects etc
 - 📫 How to reach me ... Well contact me via my mail: kopanotsaro@gmail.com, twitter: @k_tsaro
 
